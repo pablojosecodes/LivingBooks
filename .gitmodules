@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:livingbooks/frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:livingbooks/backend.git
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:livingbooks/scripts.git
